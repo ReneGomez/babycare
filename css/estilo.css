@@ -1,0 +1,70 @@
+body {
+  margin: 0px;
+  padding: 20px 0;
+  font-size: 18px;
+  font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.header {
+  padding: 0 20px;
+  color: #ef9a92;
+  background-color: #EEE;
+  text-align: center;
+  height: 60px;
+  line-height: 48.4px;
+}
+
+.footer {
+  padding:5px;
+  font-style:italic;
+  font-size:small;
+  text-align: center;
+}
+
+.button-todos{
+  margin: 1rem;
+  text-align: center;
+  padding:50px;
+}
+
+.button{
+  border: 1px solid;
+  color: #FFF;
+  padding: 10px;
+}
+
+a{
+	text-decoration:none;
+}
+
+#button-emparejar{
+  
+  font-size: large;
+  border-radius: 10px;
+  background-color: #fea09f;
+  position:center;
+}
+
+#button-login{
+	
+  font-size: large;
+  border-radius: 10px;
+  background-color: #fea09f;
+  position:left;
+}
+
+#button-registro{
+  font-size: large;
+  border-radius: 10px;
+  background-color: #fea09f;
+  position:right;
+}
+
+#logo{
+	width: 90px;
+  height: 60px;
+  border: 0px solid;
+  margin: 0%;
+  
+}
